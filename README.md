@@ -13,7 +13,7 @@ KseniaTV — это удобный видеоплеер и каталог для
 - Работает на Android TV, Google TV и TV Box
 
 ### Скачать
-[Скачать последнюю версию APK](ВСТАВЬ СЮДА ССЫЛКУ НА RELEASE)
+[Скачать последнюю версию APK](https://github.com/MDjonA/KseniaTV/releases/download/v1.0.0/KseniaTV.apk))
 
 ### Установка на телевизор
 1. Скачайте APK файл на телевизор
